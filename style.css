@@ -1,1 +1,6 @@
 @import "tailwindcss";
+.classLi:hover {
+  background: darkgray;
+  border-radius: 5px;
+  padding-left: 15px;
+}
